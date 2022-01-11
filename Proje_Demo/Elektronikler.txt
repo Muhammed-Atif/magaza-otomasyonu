@@ -1,0 +1,6 @@
+Ürünün barkodu: 1001
+Ürünün Markası: Samsung
+Ürünün Sayısı: 100
+Ürünün Fiyatı: 6000.0
+Ürünün Türü: Telefon
+****************************************

@@ -1,0 +1,9 @@
+Ürünün barkodu: 1000
+Ürünün Markası: Adidas
+Ürünün Sayısı: 100
+Ürünün Fiyatı: 500.0
+Ürünün Türü: Hoodie
+Ürünün Rengi: Mavi
+Ürünün Bedeni: XXL
+Ürünün Cinsiyeti: Erkek
+****************************************
